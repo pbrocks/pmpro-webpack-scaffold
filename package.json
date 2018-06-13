@@ -1,0 +1,20 @@
+{
+  "name": "pmpro-webpack-scaffold",
+  "version": "1.0.1",
+  "description": "Beginnings of an npm environment with its own web server",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server",
+    "build": "webpack",
+    "serve": "http-server",
+    "watch": "webpack --watch"
+  },
+  "keywords": [],
+  "author": "pmpro, pbrocks",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  }
+}
