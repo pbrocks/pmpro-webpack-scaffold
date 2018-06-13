@@ -1,6 +1,6 @@
 # pmpro-webpack-scaffold
 
-Introduction to Webpack and node modules for scaffolding a Javascript development environment.
+Introduction to Webpack and node modules for scaffolding a Javascript development environment. You will need node.js, found here https://yarnpkg.com/lang/en/docs/install/, to be installed. NPM comes with node.js, but if you'd like to try YARN, you can set that up here: https://yarnpkg.com/lang/en/docs/install/
 
 Since we are creating our own server, it doesn't really matter where you clone this repository to on your hard drive.
 
