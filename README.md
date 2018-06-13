@@ -1,6 +1,10 @@
 # pmpro-webpack-scaffold
 
-Introduction to Webpack and node modules for scaffolding a Javascript development environment. You will need node.js, found here https://nodejs.org/en/, to be installed. NPM comes with node.js, but if you'd like to try YARN, you can set that up here: https://yarnpkg.com/lang/en/docs/install/
+Introduction to Webpack and node modules for scaffolding a Javascript development environment. You will need node.js, found here https://nodejs.org/en/, to be installed. NPM comes with node.js, but if you'd like to try YARN, you can set that up here: https://yarnpkg.com/lang/en/docs/install//  If you're on a Mac, you can use Homebrew to install with:
+
+> `brew install yarn -g`
+
+The -g is the flag that signals to install globally.
 
 Since we are creating our own server, it doesn't really matter where you clone this repository to on your hard drive.
 
