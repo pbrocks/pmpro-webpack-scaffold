@@ -2,6 +2,8 @@
 
 Introduction to Webpack and node modules for scaffolding a Javascript development environment.
 
+Since we are creating our own server, it doesn't really matter where you clone this repository to on your hard drive.
+
 ## Setup and installation
 
 We're using Yarn to set things up, but you can also use NPM, if you don't wanna try new things. ;-(
